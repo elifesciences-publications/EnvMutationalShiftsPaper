@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Haddox et al., "Mapping mutational effects along the evolutionary landscape of HIV envelope". eLife, 2018. http://dx.doi.org/10.7554/eLife.34420
+
+
+
 # Env mutational shifts analysis
 
 Analysis and paper "Mapping mutational effects along the evolutionary landscape of HIV envelope."
